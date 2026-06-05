@@ -1,0 +1,6 @@
+{
+  "name": "Ahyeon Digital Museum",
+  "description": "Interactive cinematic museum and biography of BABYMONSTER's Jung Ahyeon (정아현).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
